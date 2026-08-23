@@ -128,6 +128,7 @@ This project is created for educational and portfolio purposes using the World B
 ## 📸 Screenshot
 
 <img width="100%" alt="Population Distribution Dashboard" src="screenshots/population-distribution-2022.jpg"/>
+<img width="50%" height="50%" alt="population-distribution-2022" src="https://github.com/user-attachments/assets/e3fd9ff1-defe-420c-9a1e-38fdfe384d6d" />
 
 ---
 
