@@ -33,16 +33,6 @@ The dashboard compares the population of selected countries using a **Clustered 
 
 ---
 
-## 📊 Dashboard Preview
-
-> **Population Distribution by Country – 2022**
-
-** population-distribution-2022.jpg **
-
-`![Dashboard](screenshots/population-distribution-2022.jpg)`
-
----
-
 ## 📈 Visualization Details
 
 | **Component**   | **Configuration**                         |
@@ -121,9 +111,9 @@ PowerBI-Population-Analysis/
 
 ## 👨‍💻 Author
 
-** K.Shivani **
+ K.Shivani
 
-B.Tech Computer Science Engineering
+B.Tech Data Science
 
 Power BI | Data Analytics | Data Visualization
 
