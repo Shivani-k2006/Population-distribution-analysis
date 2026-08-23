@@ -37,7 +37,7 @@ The dashboard compares the population of selected countries using a **Clustered 
 
 > **Population Distribution by Country – 2022**
 
-**(Insert your Power BI screenshot here)**
+** population-distribution-2022.jpg **
 
 `![Dashboard](screenshots/population-distribution-2022.jpg)`
 
