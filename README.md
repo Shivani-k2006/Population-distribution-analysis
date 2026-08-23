@@ -133,3 +133,44 @@ Power BI | Data Analytics | Data Visualization
 
 This project is created for educational and portfolio purposes using the World Bank Open Data dataset.
 
+---
+
+## 📸 Screenshot
+
+<img width="100%" alt="Population Distribution Dashboard" src="screenshots/population-distribution-2022.jpg"/>
+
+---
+
+## 📌 Repository Information
+
+**Repository Name:** Population-distribution-analysis
+
+**Project Type:** Data Visualization
+
+**Difficulty Level:** Beginner
+
+**Status:** Completed ✅
+
+---
+
+## 🎓 Learning Outcomes
+
+- Power BI Dashboard Creation
+- Data Cleaning
+- Data Modeling
+- Bar Chart Visualization
+- Filtering & Sorting
+- Dashboard Formatting
+
+---
+
+## 🤝 Acknowledgements
+
+- World Bank Open Data
+- Microsoft Power BI Desktop
+
+---
+
+## ⭐ If you found this project useful, consider giving it a star.
+
+
